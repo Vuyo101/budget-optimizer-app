@@ -1,8 +1,1 @@
-streamlit==1.29.0
-tensorflow-cpu>=2.15.0,<2.16.0  # or use tensorflow instead of tensorflow-cpu
-numpy>=1.24.0,<2.0.0
-pandas>=2.0.0
-shap>=0.45.0
-lime>=0.2.0.1
-scikit-learn>=1.3.0
-joblib>=1.3.0
+python-3.10.12
